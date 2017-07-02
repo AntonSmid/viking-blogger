@@ -1,0 +1,307 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="3530" measuredH="1421" mockupW="3394" mockupH="1400">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="136" y="95" w="1200" h="70" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="136" y="95" w="1200" h="70" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="228" y="114" w="-1" h="-1" measuredW="157" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Viking%20Blogger</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Image" x="151" y="100" w="55" h="55" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Canvas" x="1141" y="95" w="195" h="70" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Canvas" x="946" y="95" w="195" h="70" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>545684</color>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Paragraph" x="961" y="114" w="164" h="32" measuredW="200" measuredH="80" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <size>28</size>
+        <text>Create%20Post</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Paragraph" x="1141" y="114" w="195" h="32" measuredW="200" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>0</color>
+        <size>24</size>
+        <text>v%20Example_user</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="136" y="21" w="1200" h="1400" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Viking%20Blogg%0Ahttp%3A//vikingblogger.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="__group__" x="1473" y="345" w="940" h="467" measuredW="940" measuredH="467" zOrder="38" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="32" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="60" h="467" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="25">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="33" controlTypeID="com.balsamiq.mockups::Canvas" x="80" y="0" w="60" h="467" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="25">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="34" controlTypeID="com.balsamiq.mockups::Canvas" x="160" y="0" w="60" h="467" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="25">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="35" controlTypeID="com.balsamiq.mockups::Canvas" x="240" y="0" w="60" h="467" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="25">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="36" controlTypeID="com.balsamiq.mockups::Canvas" x="320" y="0" w="60" h="467" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="25">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="37" controlTypeID="com.balsamiq.mockups::Canvas" x="400" y="0" w="60" h="467" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="25">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="480" y="0" w="60" h="467" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="25">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="39" controlTypeID="com.balsamiq.mockups::Canvas" x="560" y="0" w="60" h="467" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="25">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="40" controlTypeID="com.balsamiq.mockups::Canvas" x="640" y="0" w="60" h="467" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="25">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="41" controlTypeID="com.balsamiq.mockups::Canvas" x="720" y="0" w="60" h="467" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="25">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="42" controlTypeID="com.balsamiq.mockups::Canvas" x="800" y="0" w="60" h="467" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="25">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="43" controlTypeID="com.balsamiq.mockups::Canvas" x="880" y="0" w="60" h="467" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="25">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Canvas" x="425" y="289" w="622" h="380" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Canvas" x="429" y="721" w="616" h="435" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="36" controlTypeID="__group__" x="429" y="211" w="616" h="30" measuredW="616" measuredH="30" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="478" y="0" w="138" h="30" measuredW="63" measuredH="27" zOrder="0" locked="false" isInGroup="36">
+          <controlProperties>
+            <color>13421772</color>
+            <text>Search</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="455" h="30" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="36"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="15" y="4" w="-1" h="-1" measuredW="187" measuredH="22" zOrder="2" locked="false" isInGroup="36">
+          <controlProperties>
+            <color>6710886</color>
+            <size>14</size>
+            <text>Enter%20your%20search%20terms%20here</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Paragraph" x="503" y="314" w="454" h="31" measuredW="200" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>545684</color>
+        <size>32</size>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Paragraph" x="503" y="398" w="454" h="208" measuredW="200" measuredH="80" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <size>16</size>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Paragraph" x="672" y="360" w="285" h="23" measuredW="200" measuredH="80" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <color>6710886</color>
+        <size>14</size>
+        <text>Posted%20on%3A%2002/07/2017%20by%20Example%20User</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Link" x="855" y="606" w="-1" h="-1" measuredW="102" measuredH="19" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Write%20a%20comment</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Link" x="503" y="606" w="-1" h="-1" measuredW="105" measuredH="19" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>View%203%20comments</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Image" x="507" y="790" w="458" h="274" measuredW="77" measuredH="79" zOrder="17" locked="false" isInGroup="-1"/>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Link" x="859" y="1079" w="-1" h="-1" measuredW="102" measuredH="19" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Write%20a%20comment</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Link" x="507" y="1079" w="-1" h="-1" measuredW="105" measuredH="19" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>View%203%20comments</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Paragraph" x="507" y="752" w="285" h="23" measuredW="200" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <color>3355443</color>
+        <size>14</size>
+        <text>Posted%20on%3A%2002/07/2017%20by%20Example%20User</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Canvas" x="1632" y="274" w="622" h="824" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Paragraph" x="1710" y="320" w="454" h="31" measuredW="200" measuredH="80" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>3355443</color>
+        <size>32</size>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Paragraph" x="1710" y="404" w="454" h="208" measuredW="200" measuredH="80" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <size>16</size>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20conse%20ctetur%20adipi%20sicing%20elit%2C%20sed%20do%20eius%20mod%20tempor%20incidi%20dunt%20ut%20labore%20et%20do%20lore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exerc%20itation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20com%20modo%20cons%20equat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20volup%20tate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occa%20ecat%20cupid%20atat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Paragraph" x="1879" y="366" w="285" h="23" measuredW="200" measuredH="80" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <color>10066329</color>
+        <size>14</size>
+        <text>Posted%20on%3A%2002/07/2017%20by%20Example%20User</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::RoundButton" x="3498" y="130" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Paragraph" x="2210" y="295" w="29" h="38" measuredW="200" measuredH="80" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <size>32</size>
+        <text>X</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Link" x="2195" y="1051" w="-1" h="-1" measuredW="34" measuredH="19" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Close</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Paragraph" x="1772" y="606" w="400" h="70" measuredW="200" measuredH="80" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <size>16</size>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20cons%20ectetur%20adipi%20sicing%20elit%2C%20sed%20do%20eius%20mod%20tempor%20incidi%20dunt%20ut%20lab%20ore%20et%20dolore%20ma%20na%20aliqua.</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Paragraph" x="1772" y="743" w="400" h="73" measuredW="200" measuredH="80" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <size>16</size>
+        <text>Sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Paragraph" x="1772" y="585" w="200" h="21" measuredW="200" measuredH="80" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>*Another%20User*%20said%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Paragraph" x="1972" y="669" w="200" h="21" measuredW="200" measuredH="80" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <color>10066329</color>
+        <size>14</size>
+        <text>Posted%202%20days%20ago</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Paragraph" x="1772" y="722" w="200" h="21" measuredW="200" measuredH="80" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>*Another%20User*%20said%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Paragraph" x="1972" y="789" w="200" h="21" measuredW="200" measuredH="80" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <color>10066329</color>
+        <size>14</size>
+        <text>Posted%202%20days%20ago</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Paragraph" x="1710" y="842" w="200" h="22" measuredW="200" measuredH="80" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Post%20a%20comment</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Paragraph" x="1725" y="893" w="200" h="19" measuredW="200" measuredH="80" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <size>16</size>
+        <text>Write%20your%20comment%20here%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Canvas" x="1710" y="878" w="462" h="110" measuredW="100" measuredH="70" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Button" x="2032" y="1003" w="140" h="27" measuredW="92" measuredH="27" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>545684</color>
+        <size>16</size>
+        <text>Comment</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
